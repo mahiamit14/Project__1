@@ -1,0 +1,21 @@
+body{
+   background-color: #212121;
+   color: #fff;
+}
+pre{
+    color: rgb(142, 142, 242);
+}
+ p{
+    opacity: 0.8;
+ }
+ li{
+    opacity: 0.8;
+ }
+ table{
+    background-color: #fff;
+   
+    margin: 16px;
+ }
+ td{
+    
+ }
